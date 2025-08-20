@@ -1,43 +1,57 @@
-<h1 align="center">Hi 👋, I'm Divyesh Moraniya</h1>
-<h3 align="center">🚀 Full-stack Developer | MERN Enthusiast | UI/UX Designer</h3>
+<!-- Banner -->
+<h1 align="center">Hey 👋, I'm Divyesh Moraniya</h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN </h3>
 
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyeshmoraniya&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
-  <a href="https://github.com/divyeshmoraniya?tab=followers">
-    <img src="https://img.shields.io/github/followers/divyeshmoraniya?label=Followers&style=social" alt="followers" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=550&lines=Full-stack+Developer;MERN+%2B+Web3+Enthusiast;Open+Source+Contributor;Tech+Explorer+%7C+Always+Learning" />
 </p>
 
 ---
 
-### 🚀 About Me  
-- 🌱 Currently learning **TypeScript, Docker, Blockchain Integration (Solana)**  
-- 👯 Looking to collaborate on **Open Source MERN + Web3 projects**  
-- 📝 I share knowledge on **Medium & Dev.to**  
+### ✨ About Me  
+- 🌱 Currently learning **TypeScript, Docker, tRPC, Electron.js**  
+- 👯 Open to collaborate on **Full-stack & Web3 projects**  
+- 🛠 Building scalable apps with **MERN**  
+- 📝 I share insights & articles on **Medium / Dev.to**  
 - 📫 Reach me at: **hdivyesh62@gmail.com**  
-- ⚡ Fun fact: I can debug faster with coffee ☕  
+- ⚡ Fun fact: I can code without bugs… until I hit `npm start` 😆  
 
 ---
 
-### 🛠️ Languages & Tools  
+### 🛠️ Languages, Frameworks & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,cpp,java,docker,git,tailwind,bootstrap,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,prisma,redis,firebase,cpp,java,python,docker,git,tailwind,bootstrap,figma,vscode,electron" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=trpc,webpack,postman,nginx,bash" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats & Streaks  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyeshmoraniya&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyeshmoraniya&theme=radical" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyeshmoraniya&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divyeshmoraniya&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyeshmoraniya&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyeshmoraniya&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyeshmoraniya&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=divyeshmoraniya&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 🔥 My Contribution Graph (Snake 🐍)  
+<p align="center">
+  <img src="https://github.com/divyeshmoraniya/divyeshmoraniya/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -46,15 +60,18 @@
 - 🔥 [QuickNews](https://github.com/divyeshmoraniya/quicknews) – A fast news-fetching app  
 - 🚴 [Bikey](https://github.com/divyeshmoraniya/bikey) – Bike rental service web app  
 - 💬 [Webochat](https://github.com/divyeshmoraniya/webochat) – Real-time chat app with authentication  
+- 🖥️ [Electron Project] – Desktop app (coming soon...)  
 
 ---
 
 ### 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:hdivyesh62@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/divyesh-moraniya-203601292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
 
 ⭐ From [divyeshmoraniya](https://github.com/divyeshmoraniya)
+
 
