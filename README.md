@@ -20,9 +20,15 @@
 ---
 
 ### 🛠️ Languages, Frameworks & Tools  
+### 🛠️ Languages, Frameworks & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,prisma,redis,firebase,cpp,java,python,docker,git,tailwind,bootstrap,figma,vscode,electron" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,prisma,redis,firebase" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,docker,git,tailwind,bootstrap,figma,vscode,electron" />
+</p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=trpc,webpack,postman,nginx,bash" />
