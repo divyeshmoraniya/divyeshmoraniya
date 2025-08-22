@@ -1,3 +1,8 @@
+<!-- Profile Views Counter -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=divyeshmoraniya&label=Profile%20views&color=0e75b6&style=flat" alt="divyeshmoraniya" /> 
+</p>
+
 <!-- Banner -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
