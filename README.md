@@ -36,11 +36,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,docker,git,tailwind,bootstrap,figma,vscode,electron" />
+  <img src="https://skillicons.dev/icons?i=java,python,git,tailwind,bootstrap,figma,vscode,electron" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=webpack,postman,nginx,bash,github" />
+  <img src="https://skillicons.dev/icons?i=postman,bash,github" />
 </p>
 
 ---
