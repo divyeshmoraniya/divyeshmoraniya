@@ -50,7 +50,7 @@ Full Stack Developer • MERN Stack • Cloud Engineering
 ### ☁️ CloudKit
 > Vercel/Railway inspired Platform as a Service built with Docker, AWS ECS, GitHub Apps & CI/CD.
 
-🌐 **Live:** https://cloudkit.page/
+🌐 **Live:** https://cloudkit.app/
 
 💻 **Code:** https://github.com/divyeshmoraniya/cloudkit
 
